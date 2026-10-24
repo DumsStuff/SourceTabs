@@ -1,0 +1,29 @@
+# Meson build directories
+build/
+builddir/
+subprojects/packagecache/
+
+# JetBrains CLion / IDE files
+.idea/
+*.iml
+cmake-build-*/
+
+# Compiled object and library files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+
+# Executables and binaries
+*.exe
+*.dll
+*.out
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+Desktop.ini
